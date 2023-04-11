@@ -170,3 +170,55 @@
     position: relative;
     top: 19px;
 }
+
+.wrapper img{
+    left: 100px;
+    width: 52%;
+    height: 433px;
+    position: relative;
+}
+
+.boxside{
+
+    height: 360px;
+    background-color: #303030;
+    width: 556px;
+    color: white;
+    position: relative;
+    top: -135px;
+    left: 634px;
+
+
+
+}
+
+.boxside h1{
+    left: 59px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 33px;
+    padding-top: 74px;
+    position: relative;
+    
+}
+
+.boxside p{
+    left: 59px;
+    top: 26px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    text-align: justify;
+    position: relative;
+    
+}
+
+.boxside a{
+    left: 56px;
+    color: black;
+    text-decoration: none;
+    background-color: #fff;
+    padding: 28px 49px;
+    position: relative;
+    top: 83px;
+    font-size: 28px;
+    font-weight: bold;
+}
