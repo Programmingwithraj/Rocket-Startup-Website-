@@ -222,3 +222,164 @@
     font-size: 28px;
     font-weight: bold;
 }
+
+.wrapper2 img{
+    width: 42rem;
+    position: relative;
+    left: 37rem;
+
+}
+
+.boxside2{
+    background-color: #303030;
+    width: 524px;
+    height: 360px;
+    color: #fff;
+    padding: 2px 34px;
+    position: relative;
+    top: -161px;
+    left: 226px;
+}
+
+.boxside2 h1{
+        left: 0rem;
+        top: 77px;
+        font-family: 'Roboto', sans-serif;
+        font-size: 33px;
+        position: relative;
+
+}
+
+.boxside2 p{
+    top: 103px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    position: relative;
+    text-align: justify;
+}
+
+.boxside2 a{
+    color: black;
+    position: relative;
+    top: 138px;
+    text-decoration: none;
+    font-size: 28px;
+    background-color: #fff;
+    padding: 17px 34px;
+}
+
+.wrapper3 img{
+    width: 43rem;
+    position: relative;
+    left: 86px;
+}
+
+.boxside3{
+    background-color: #303030;
+    width: 524px;
+    height: 360px;
+    color: #fff;
+    padding: 2px 34px;
+    position: relative;
+    top: -120px;
+    left: 38rem;
+}
+
+.boxside3 h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 33px;
+    position: relative;
+    top: 97px;
+}
+
+.boxside3 p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 19px;
+    position: relative;
+    top: 117px;
+    text-align: justify;   
+}
+
+.boxside3 a{
+    color: black;
+    position: relative;
+    top: 152px;
+    text-decoration: none;
+    font-size: 28px;
+    background-color: #fff;
+    padding: 17px 34px;
+
+}
+
+.banner {
+    height: 159px;
+}
+
+.banner h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 33px;
+    font-weight: 200;
+}
+
+.banner a{
+    left: 33rem;
+    background-color: #6e3da9;
+    outline: 3px solid blue;
+    color: #fff;
+    text-decoration: none;
+    font-size: 38px;
+    padding: 9px 44px;
+    position: relative;
+    top: 42px;
+}
+
+.banner2{
+    margin-top: 66px;
+    height: 10rem;
+}
+
+.banner2 h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+.banner2 p{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 37px;
+    font-weight: bold;
+
+}
+
+.banner3{
+    background-color: #6e3da9;
+    padding: 69px 10px;
+    color: #fff;
+}
+
+.banner3 h1{
+    position: relative;
+    left: 71px;
+    font-size: 34px;
+    width: 49rem;
+}
+
+.banner3 p{
+    position: relative;
+    width: 51rem;
+    left: 71px;
+    top: 33px;
+    font-size: 24px;
+}
+
+.banner3 a{
+    color: black;
+    text-decoration: none;
+    background: #fff;
+    font-size: 38px;
+    padding: 9px 44px;
+    position: relative;
+    top: -18px;
+    left: 59rem;
+}
